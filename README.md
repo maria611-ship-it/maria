@@ -1,0 +1,154 @@
+[index.html](https://github.com/user-attachments/files/25245767/index.html)
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Марія Теплюк — Номінація на Премію КМУ</title>
+<meta name="description" content="К.е.н., доцент КНЕУ. Інноваційна економіка, цифрова трансформація, ентропійний розвиток, нейромоделювання."/>
+<link rel="icon" href="images/favicon.svg"/>
+<meta property="og:title" content="Марія Теплюк — Номінація на Премію КМУ"/>
+<meta property="og:description" content="Наукові здобутки, проєкти, індекси та матеріали для експертної комісії."/>
+<meta property="og:image" content="images/og.jpg"/>
+<link rel="stylesheet" href="assets/style.css"/>
+<script defer src="assets/script.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div><strong>Марія Теплюк</strong></div>
+      <nav>
+        <a href="#about">Про мене</a>
+        <a href="#awards">Відзнаки</a>
+        <a href="#projects">Проєкти</a>
+        <a href="#publications">Публікації</a>
+        <a href="#contacts">Контакти</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div>
+        <h1>Номінація на Премію КМУ</h1>
+        <p>Кандидат економічних наук, доцент КНЕУ. Дослідження у сферах інноваційної економіки, цифрової трансформації та <b>ентропійного розвитку</b> підприємств; нейромоделювання соціально‑економічних систем.</p>
+        <div style="display:flex;gap:12px;margin-top:16px">
+          <a class="btn" href="#docs">Документи для комісії</a>
+          <a class="btn outline" href="#awards">Відзнаки & індекси</a>
+        </div>
+        <div style="margin-top:14px;color:#64748b;font-size:14px">Лауреат Премії ВРУ (2023) • 150+ публікацій • Міжнародні НДР</div>
+      </div>
+      <div style="display:flex;justify-content:flex-end">
+        <img src="images/mariia.jpg" alt="Mariia Tepliuk" width="420" height="420" class="img-round"/>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <h2>Професійна місія</h2>
+      <blockquote>Формувати середовище, у якому наука, підприємництво та інновації трансформуються у рішення для сталого розвитку економіки. Фокус — нейромоделювання, антикрихкість, релокація бізнесу, циркулярне підприємництво та трансцендентна економіка.</blockquote>
+      <div class="grid cols-3" style="margin-top:18px">
+        <div class="card" style="padding:16px"><span class="badge">Ключові ролі</span><ul>
+          <li>Доцент кафедри бізнес‑економіки та підприємництва, КНЕУ</li>
+          <li>Голова НТСАДМВ КНЕУ (з 09.2025)</li>
+          <li>Відповідальний секретар «Вчені записки»</li>
+          <li>Експерт МОН України (наказ №982 від 12.07.2024)</li>
+        </ul></div>
+        <div class="card" style="padding:16px"><span class="badge">Компетенції</span><ul>
+          <li>Економіка підприємства, інновації, ресурсоефективність</li>
+          <li>Цифрова економіка, автоматизація процесів</li>
+          <li>Проєктний менеджмент у науці та освіті</li>
+          <li>Нейромоделювання, академічна редактура, EdTech</li>
+        </ul></div>
+        <div class="card" style="padding:16px"><span class="badge">Наукові індекси</span>
+          <div class="kv"><div class="k">Google Scholar</div><div class="v">h‑index 16 · i10‑index 22</div></div>
+          <div class="kv"><div class="k">Scopus</div><div class="v">h‑index 9</div></div>
+          <div class="kv"><div class="k">Web of Science</div><div class="v">h‑index 5</div></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="awards" class="section">
+      <h2>Відзнаки & індекси</h2>
+      <div class="grid cols-3">
+        <div class="card" style="padding:16px"><div class="badge">Державна відзнака</div><div style="margin-top:8px">Премія Верховної Ради України молодим ученим (за 2022 р.; вручення 20.12.2023)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">Всеукраїнський конкурс</div><div style="margin-top:8px">Переможниця «Молодий вчений року» (2024) — «Підприємництво, торгівля та біржова діяльність»</div></div>
+        <div class="card" style="padding:16px"><div class="badge">Стипендії</div><div style="margin-top:8px">КМУ: 2020–2022; 2023–2024; 2025 · Президента України: 2016–2017</div></div>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <h2>Участь у міжнародних та державних проєктах</h2>
+      <div class="grid cols-2">
+        <div class="card" style="padding:16px"><div class="badge">2026–2028</div><div style="margin-top:8px"><b>Керівниця НДР:</b> «Нейроархітектоніка цифровізації та ентропійного розвитку соціально‑економічних систем» (№ 0126U001539)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">2024–2026</div><div style="margin-top:8px">Відповідальна виконавиця: «Нейромоделювання протиентропійності логістичної системи агротрейдингу України» (№ 0124U000632)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">2023–2025</div><div style="margin-top:8px">Основна виконавиця (молодіжний): «Переміщений бізнес у ревіталізації регіональних екосистем України» (№ 0123U100357)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">2022</div><div style="margin-top:8px">Відповідальна виконавиця: «Розвиток академічного підприємництва та бізнес‑акселерація…» (№ 0122U000962)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">2020–2022</div><div style="margin-top:8px">Основна виконавиця: «Реалізація потенціалу молодих учених…» (№ 0120U102126)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">2019</div><div style="margin-top:8px">НДР МОН: «Активізація інноваційного підприємництва в Україні…» (№ 0117U001197)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">2019</div><div style="margin-top:8px">Україно‑литовський проєкт: інженерія поверхонь контакту «колесо‑рейка» (№ M/139‑2019)</div></div>
+        <div class="card" style="padding:16px"><div class="badge">2018</div><div style="margin-top:8px">Erasmus+ Jean Monnet Module (№ 587138‑EPP‑1‑2017‑1‑UA‑EPPJMO‑MODULE)</div></div>
+      </div>
+    </section>
+
+    <section id="publications" class="section">
+      <h2>Публікації (вибране)</h2>
+      <div class="grid">
+        <div class="card" style="padding:16px">
+          <div><b>An entropic perspective on business relocation…</b></div>
+          <div style="color:#475569">Financial and Credit Activity: Problems of Theory and Practice, 1(54), 2024, 421–439. DOI: 10.55643/fcaptp.1.54.2024.4248</div>
+        </div>
+        <div class="card" style="padding:16px">
+          <div><b>Online shopping perceived risks during the COVID‑19 pandemic…</b></div>
+          <div style="color:#475569">Financial and Credit Activity‑Problems of Theory and Practice, 2022, 100–108. DOI: 10.55643/fcaptp.3.44.2022.3771</div>
+        </div>
+        <div class="card" style="padding:16px">
+          <div><b>Proposal to Increase the Level of Rural Business Activity after COVID‑19</b></div>
+          <div style="color:#475569">TEM Journal, 10(2), 2021, 656–662. DOI: 10.18421/TEM102-21</div>
+        </div>
+      </div>
+      <div style="margin-top:14px;color:#64748b">Повний перелік — у Google Scholar, Scopus, WoS (посилання нижче).</div>
+    </section>
+
+    <section id="docs" class="section">
+      <h2>Документи для комісії</h2>
+      <div class="grid cols-3">
+        <div class="card" style="padding:16px;text-align:center">
+          <div style="font-weight:600">Резюме кандидата (CV)</div>
+          <div style="font-size:14px;color:#64748b;margin:6px 0">Завантажити PDF</div>
+          <a class="btn outline" href="docs/CV_Tepliuk_Mariia.pdf" download>Завантажити</a>
+        </div>
+        <div class="card" style="padding:16px;text-align:center">
+          <div style="font-weight:600">Список публікацій</div>
+          <div style="font-size:14px;color:#64748b;margin:6px 0">Завантажити PDF</div>
+          <a class="btn outline" href="docs/Publications_Tepliuk.pdf" download>Завантажити</a>
+        </div>
+        <div class="card" style="padding:16px;text-align:center">
+          <div style="font-weight:600">Довідки про впровадження</div>
+          <div style="font-size:14px;color:#64748b;margin:6px 0">Завантажити PDF</div>
+          <a class="btn outline" href="docs/Implementation_Letters.pdf" download>Завантажити</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Профілі та канал</h2>
+      <div class="grid cols-4">
+        <a class="card" style="padding:16px;text-decoration:none;color:inherit" href="https://scholar.google.com.ua/citations?user=gaOUgSIAAAAJ" target="_blank" rel="noopener"><div class="badge">Google Scholar</div><div style="margin-top:8px">h‑index 16 · i10‑index 22</div></a>
+        <a class="card" style="padding:16px;text-decoration:none;color:inherit" href="https://www.scopus.com/authid/detail.uri?authorId=57205482209" target="_blank" rel="noopener"><div class="badge">Scopus</div><div style="margin-top:8px">Author ID: 57205482209 · h‑index 9</div></a>
+        <a class="card" style="padding:16px;text-decoration:none;color:inherit" href="https://orcid.org/0000-0001-6823-336X" target="_blank" rel="noopener"><div class="badge">ORCID</div><div style="margin-top:8px">0000‑0001‑6823‑336X</div></a>
+        <a class="card" style="padding:16px;text-decoration:none;color:inherit" href="https://youtube.com/@mariiaanatolyivna" target="_blank" rel="noopener"><div class="badge">YouTube</div><div style="margin-top:8px">@mariiaanatolyivna — науково‑освітній контент</div></a>
+      </div>
+      <div class="card" style="padding:16px;margin-top:12px"><a href="https://kneu.edu.ua/ua/depts4/k_ekonomiky_pidpryjemstv/Vikladach/Teplyuk.M.A/" target="_blank" rel="noopener">Офіційна сторінка КНЕУ</a></div>
+    </section>
+
+    <section id="contacts" class="section">
+      <h2>Контакти</h2>
+      <div class="grid cols-2">
+        <div class="card" style="padding:16px"><div class="kv"><div class="k">E‑mail</div><div class="v">maria_6.11@kneu.edu.ua</div></div><div class="kv"><div class="k">Телефон</div><div class="v">+380 67 982 08 48</div></div></div>
+        <div class="card" style="padding:16px"><div class="kv"><div class="k">Редакція «Вчені записки»</div><div class="v">kneu.vz@gmail.com</div></div><div class="kv"><div class="k">Кінець сторінки</div><div class="v">Дякую за увагу!</div></div></div>
+      </div>
+    </section>
+
+    <footer>© <span id="y"></span> Mariia Tepliuk · Номінація на Премію КМУ</footer>
+  </div>
+  <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
+</body>
+</html>
